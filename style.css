@@ -1,0 +1,16 @@
+body 
+{
+  margin: 0px;
+  padding: 0px;
+}
+
+.background {
+  width: 100%;
+  height: 50vh;
+  
+  background-image: url(exercise\ pic\ 1st.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+html
